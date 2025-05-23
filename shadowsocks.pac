@@ -95,6 +95,7 @@ function FindProxyForURL(url, host) {
     "jsdelivr.net",
 
     // Other
+    "rutracker.org",
     "linkedin.com",
     "microsoft.com",
     "ikea.com",
