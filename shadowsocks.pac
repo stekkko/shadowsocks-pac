@@ -51,6 +51,7 @@ function FindProxyForURL(url, host) {
     "scdn.co",
     "deezer.com",
     "soundcloud.com",
+    "arturia.com",
 
     // VPN
     "amnezia.org",
